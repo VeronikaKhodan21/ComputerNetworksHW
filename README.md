@@ -3,5 +3,4 @@
 * [Домашняя работа №2](https://github.com/VeronikaKhodan21/ComputerNetworksHW/blob/main/hw2.md)
 * [Домашняя работа №3](https://github.com/VeronikaKhodan21/ComputerNetworksHW/blob/main/hw3.md)
 * [Домашняя работа №4](https://github.com/VeronikaKhodan21/ComputerNetworksHW/blob/main/hw4.md)
-* [Домашняя работа №5](https://github.com/VeronikaKhodan21/ComputerNetworksHW/blob/main/hw5.md)
 * [Домашняя работа №6](https://github.com/VeronikaKhodan21/ComputerNetworksHW/blob/main/hw6.md)
